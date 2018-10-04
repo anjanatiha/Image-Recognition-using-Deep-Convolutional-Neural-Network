@@ -1,15 +1,14 @@
-# Image Recognition using Deep Convolutional Network and Pretrained Model 	[Sep 18– Cur]                                               
+# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                            
 
-##### Domain             : Artificial Intelligence, Machine Learning, Natural Language Processing
-##### Sub-Domain         : Deep Learning, Conversational Agent, Language Modeling
-##### Techniques         : Sequence-to-Sequence (Seq2Seq), Recurrent Neural Network, Bidirectional RNN, LSTM, Neural Attention Mechanism, Beam Search, Neural Machine Translation, TensorFlow
+##### Domain             : Computer Vision, Machine Learning
+##### Sub-Domain         : Deep Learning, Image Recognition
+##### Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
 
 
 ### Description
-1. Developed chatbot using encoder and decoder based Sequence-to-Sequence (Seq2Seq) model from Google’s Neural Machine Translation (NMT) module and Cornell Movie Subtitle Corpus. 
-2. Seq2Seq architecture built on Recurrent Neural Network and was optimized with bidirectional LSTM cells.
-3. Enhanced chatbot performance by applying Neural Attention Mechanism and Beam Search.
-4. Developed backend using Python and front-end using Python and PyQT.
+1. Developed image recognition application using Deep Convolutional Network built from scratch with Keras Sequential model and, also trained dataset on pretrained model “Inception” to finetune for new label classes.
+2. Used multiple dataset - Flower dataset (Accuracy – 74%, 5 species, 4000+ images of 228 MB, training time – 4hour), Dog Breed dataset (120 class, 22, 000 images, 680MB, training time – 24 hours), 10 monkey species (560MB).
+
 
 <!---
 #### Intelligent Chatbot Graphical Interface: 
@@ -24,9 +23,9 @@
 -->
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
-##### Libraries   : Keras, TensorFlow
+##### Libraries   : Keras, TensorFlow, Inception, ImageNet
 
-##### Duration   : Oct 18 - Current
+##### Duration   : Sep 18 - Current
 
 Current Version  : v1.0.0.0
 
