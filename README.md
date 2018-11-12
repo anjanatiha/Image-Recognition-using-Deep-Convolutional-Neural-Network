@@ -12,11 +12,7 @@
 ##### Number of Class: 5
 ##### Number of Images: Total: 4327, Training: 3031, Validation: 866, Testing: 430
 
-##### Dataset Size:
-###### Total: 228 MB
-###### Training: 158 MB 
-###### Validation: 51.8 MB
-###### Testing: 26.6 MB
+##### Dataset Size: Total: 228 MB, Training: 158 MB, Validation: 51.8 MB, Testing: 26.6 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
@@ -37,17 +33,9 @@
 
 ### Training Details for Monkey Dataset:
 ##### Number of Class: 10
-##### Number of Image:
-###### Total: 1370
-###### Training: 1098 
-###### Validation: 272
-###### Testing: 0
+##### Number of Image: Total: 1370, Training: 1098, Validation: 272, Testing: 0
 
-##### Dataset Size:
-###### Total: 553 MB
-###### Training: 434 MB 
-###### Validation: 119 MB
-###### Testing: 0 MB
+##### Dataset Size: Total: 553 MB, Training: 434 MB, Validation: 119 MB, Testing: 0 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
@@ -67,17 +55,9 @@
 
 ### Training Details for Dog Dataset:
 ##### Number of Class: 120
-##### Number of Image:
-###### Total: 10222
-###### Training: 7221
-###### Validation: 2043
-###### Testing: 958
+##### Number of Image: Total: 10222, Training: 7221, Validation: 2043, Testing: 958
 
-##### Dataset Size:
-###### Total: 344 MB 
-###### Training: 239 MB 
-###### Validation: 71.1 MB
-###### Testing: 34.3 MB
+##### Dataset Size: Total: 344 MB, Training: 239 MB, Validation: 71.1 MB, Testing: 34.3 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
