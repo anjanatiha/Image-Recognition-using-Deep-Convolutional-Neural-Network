@@ -10,16 +10,17 @@
 *************************************************************************************************************************************
 ### Training Details for Flower Dataset:
 ##### Number of Class: 5
-##### Number of Image:
+##### Number of Images:
 ###### Total: 4327 
 ###### Training: 3031 
 ###### Validation: 866
 ###### Testing: 430
+
 ##### Dataset Size:
 ###### Total: 228 MB
 ###### Training: 158 MB 
-###### Validation: 51.8 mb
-###### Testing: 26.6 mb
+###### Validation: 51.8 MB
+###### Testing: 26.6 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
@@ -30,6 +31,7 @@
 -->
 ###### Validation: 82%
 ###### Testing: 85.68%
+
 ##### Metrics (Loss):
 <!---
 ###### Training:
@@ -44,6 +46,7 @@
 ###### Training: 1098 
 ###### Validation: 272
 ###### Testing: 0
+
 ##### Dataset Size:
 ###### Total: 553 MB
 ###### Training: 434 MB 
