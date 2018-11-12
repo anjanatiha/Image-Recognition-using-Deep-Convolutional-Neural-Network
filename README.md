@@ -1,4 +1,4 @@
-# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                           (empty line)
+# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                           
 [comment]: # (This actually is the most platform independent comment)
 
 ##### Domain             : Computer Vision, Machine Learning
