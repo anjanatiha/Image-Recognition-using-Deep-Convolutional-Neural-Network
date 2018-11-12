@@ -27,13 +27,13 @@
 #### Number of Image
 ###### Training: 1098 
 ###### Validation: 272
-###### Test: 0
+###### Testing: 0
+#### Dataset Size
+###### Training: 434 MB 
 
-###### Training Dataset Size: 434 MB 
+###### Validation: 119 MB 
 
-###### Validation Dataset Size: 119 MB 
-
-###### Testing Dataset Size: 0 MB 
+###### Testing: 0 MB 
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
