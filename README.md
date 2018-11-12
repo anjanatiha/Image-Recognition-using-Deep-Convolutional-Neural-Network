@@ -1,4 +1,4 @@
-# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                            [comment]: asasas
+# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                            [comment]: #asasas
 
 ##### Domain             : Computer Vision, Machine Learning
 ##### Sub-Domain         : Deep Learning, Image Recognition
