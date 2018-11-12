@@ -8,7 +8,7 @@
 1. Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 85.68%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 553MB), Dog Breed dataset (validation accuracy - 74.25%, 120 class, 10222 images, 344MB).
 *************************************************************************************************************************************
-### Training Details for Flower Dataset:
+### Flower Dataset:
 ##### Number of Class: 5
 ##### Number of Images: Total: 4327, Training: 3031, Validation: 866, Testing: 430
 
@@ -21,7 +21,7 @@
 
 ##### Metrics (Loss): Training:, Validation:, Testing: 1.29
 
-### Training Details for Monkey Dataset:
+### Monkey Dataset:
 ##### Number of Class: 10
 ##### Number of Image: Total: 1370, Training: 1098, Validation: 272, Testing: 0
 
@@ -34,7 +34,7 @@
 ##### Metrics (Loss): Training:, Validation:, Testing: 1.29
 
 
-### Training Details for Dog Dataset:
+### Dog Dataset:
 ##### Number of Class: 120
 ##### Number of Image: Total: 10222, Training: 7221, Validation: 2043, Testing: 958
 
