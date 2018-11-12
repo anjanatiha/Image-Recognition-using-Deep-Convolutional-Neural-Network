@@ -50,7 +50,7 @@ Last Update      : 10.01.2018
 ###### Number of Testing Images: 430
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
-[comment]: <> (###### Training Accuracy: )
+[comment]: <> (raining Accuracy: )
 ###### Training Loss: 
 ###### Validation Accuracy: 82%
 ###### Validation Loss: 
