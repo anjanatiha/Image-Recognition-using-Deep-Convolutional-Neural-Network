@@ -1,4 +1,4 @@
-# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                            
+# Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                            [comment]: asasas
 
 ##### Domain             : Computer Vision, Machine Learning
 ##### Sub-Domain         : Deep Learning, Image Recognition
@@ -42,7 +42,7 @@ Last Update      : 10.01.2018
 1. Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 85.68%, 5 species, 4000+ images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 560MB), Dog Breed dataset (validation accuracy - 74.25%, 120 class, 22000 images, 680MB).
 
-[comment]: # asasas
+
 *************************************************************************************************************************************
 ### Training Details for Flower Dataset:
 ###### Number of Training Image: 3031 
@@ -50,7 +50,7 @@ Last Update      : 10.01.2018
 ###### Number of Testing Images: 430
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
-[comment]: <> raining Accuracy: 
+###### Training Accuracy: 
 ###### Training Loss: 
 ###### Validation Accuracy: 82%
 ###### Validation Loss: 
