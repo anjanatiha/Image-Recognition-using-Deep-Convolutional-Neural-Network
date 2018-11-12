@@ -17,19 +17,9 @@
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-##### Metrics (Accuracy):
-<!---
-###### Training:
--->
-###### Validation: 82%
-###### Testing: 85.68%
+##### Metrics (Accuracy): Training: , Validation: 82%, Testing: 85.68%
 
-##### Metrics (Loss):
-<!---
-###### Training:
-###### Validation:
--->
-###### Testing: 1.29
+##### Metrics (Loss): Training:, Validation:, Testing: 1.29
 
 ### Training Details for Monkey Dataset:
 ##### Number of Class: 10
@@ -40,18 +30,9 @@
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-##### Metrics (Accuracy):
-<!---
-###### Training:
-###### Testing:
--->
-###### Validation: 97.06%
-##### Metrics (Loss):
-<!---
-###### Training:
-###### Validation:
-###### Testing: 1.29
--->
+##### Metrics (Accuracy): Training:, Testing:, Validation: 97.06%
+##### Metrics (Loss): Training:, Validation:, Testing: 1.29
+
 
 ### Training Details for Dog Dataset:
 ##### Number of Class: 120
@@ -62,18 +43,9 @@
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-##### Metrics (Accuracy):
-<!---
-###### Training:
--->
-###### Validation: 74.25%
-<!---
-###### Testing: 
-#### Metrics (Loss):
-###### Training:
-###### Validation:
-###### Testing: 1.29
--->
+##### Metrics (Accuracy): Training: , Validation: 74.25%, Testing: 
+#### Metrics (Loss): Training:, Validation:, Testing: 1.29
+
 *************************************************************************************************************************************
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
