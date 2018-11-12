@@ -10,11 +10,7 @@
 *************************************************************************************************************************************
 ### Training Details for Flower Dataset:
 ##### Number of Class: 5
-##### Number of Images:
-###### Total: 4327 
-###### Training: 3031 
-###### Validation: 866
-###### Testing: 430
+##### Number of Images: Total: 4327, Training: 3031, Validation: 866, Testing: 430
 
 ##### Dataset Size:
 ###### Total: 228 MB
