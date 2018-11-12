@@ -12,9 +12,9 @@
 ###### Number of Training Image: 3031 
 ###### Number of Validation Images: 866
 ###### Number of Testing Images: 430
+<!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
-<!---
 ###### Training Accuracy: 
 ###### Training Loss: 
 ###### Validation Accuracy: 82%
@@ -27,9 +27,9 @@
 ###### Number of Training Image: 5216 
 ###### Number of Validation Images: 16
 ###### Number of Testing Images: 624
+<!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
-<!---
 ###### Training Accuracy: 
 ###### Training Loss: 
 ###### Validation Accuracy: 81%
@@ -42,9 +42,9 @@
 ###### Number of Training Image: 5216 
 ###### Number of Validation Images: 16
 ###### Number of Testing Images: 624
+<!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
-<!---
 ###### Training Accuracy: 
 ###### Training Loss: 
 ###### Validation Accuracy: 81%
