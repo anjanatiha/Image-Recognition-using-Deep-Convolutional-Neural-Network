@@ -51,9 +51,8 @@
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : Keras, TensorFlow, Inception, ImageNet
-
-##### Duration   : September 18 - Current
 *************************************************************************************************************************************
-Current Version  : v1.0.0.0
-Last Update      : 11.09.2018
+##### Duration   : September 18 - Current
+##### Current Version  : v1.0.0.0
+##### Last Update      : 11.09.2018
 *************************************************************************************************************************************
