@@ -11,44 +11,44 @@
 ### Training Details for Flower Dataset:
 #### Number of Class: 5
 #### Number of Image:
-Total: 4327 
-Training: 3031 
-Validation: 866
-Testing: 430
+##### Total: 4327 
+##### Training: 3031 
+##### Validation: 866
+##### Testing: 430
 #### Dataset Size:
-Total: 228 MB
-Training: 158 MB 
-Validation: 51.8 mb
-Testing: 26.6 mb
+##### Total: 228 MB
+##### Training: 158 MB 
+##### Validation: 51.8 mb
+##### Testing: 26.6 mb
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
 #### Metrics (Accuracy):
 <!---
-Training:
+##### Training:
 -->
-Validation: 82%
-Testing: 85.68%
+##### Validation: 82%
+##### Testing: 85.68%
 #### Metrics (Loss):
 <!---
-Training:
-Validation:
+##### Training:
+##### Validation:
 -->
-Testing: 1.29
+##### Testing: 1.29
 
 ### Training Details for Monkey Dataset:
 #### Number of Class: 10
 #### Number of Image:
-Total: 1370
-Training: 1098 
-Validation: 272
-Testing: 0
+##### Total: 1370
+##### Training: 1098 
+##### Validation: 272
+##### Testing: 0
 #### Dataset Size:
 Total: 553 MB
-Training: 434 MB 
-Validation: 119 MB
-Testing: 0 MB
+##### Training: 434 MB 
+##### Validation: 119 MB
+##### Testing: 0 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
