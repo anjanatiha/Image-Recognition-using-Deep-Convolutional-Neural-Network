@@ -24,9 +24,16 @@
 ###### Testing Loss: 1.29
 
 ### Training Details for Monkey Dataset:
-###### Number of Training Image: 5216 
-###### Number of Validation Images: 16
-###### Number of Testing Images: 624
+#### Number of Image
+###### Training: 1098 
+###### Validation: 272
+###### Test: 0
+
+###### Training Dataset Size: 434 MB 
+
+###### Validation Dataset Size: 119 MB 
+
+###### Testing Dataset Size: 0 MB 
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
