@@ -9,89 +9,89 @@
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 85.68%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 560MB), Dog Breed dataset (validation accuracy - 74.25%, 120 class, 22000 images, 680MB).
 *************************************************************************************************************************************
 ### Training Details for Flower Dataset:
-#### Number of Class: 5
-#### Number of Image:
-##### Total: 4327 
-##### Training: 3031 
-##### Validation: 866
-##### Testing: 430
-#### Dataset Size:
-##### Total: 228 MB
-##### Training: 158 MB 
-##### Validation: 51.8 mb
-##### Testing: 26.6 mb
+##### Number of Class: 5
+##### Number of Image:
+###### Total: 4327 
+###### Training: 3031 
+###### Validation: 866
+###### Testing: 430
+##### Dataset Size:
+###### Total: 228 MB
+###### Training: 158 MB 
+###### Validation: 51.8 mb
+###### Testing: 26.6 mb
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-#### Metrics (Accuracy):
+##### Metrics (Accuracy):
 <!---
-##### Training:
+###### Training:
 -->
-##### Validation: 82%
-##### Testing: 85.68%
-#### Metrics (Loss):
+###### Validation: 82%
+###### Testing: 85.68%
+##### Metrics (Loss):
 <!---
-##### Training:
-##### Validation:
+###### Training:
+###### Validation:
 -->
-##### Testing: 1.29
+###### Testing: 1.29
 
 ### Training Details for Monkey Dataset:
-#### Number of Class: 10
-#### Number of Image:
-##### Total: 1370
-##### Training: 1098 
-##### Validation: 272
-##### Testing: 0
-#### Dataset Size:
-Total: 553 MB
-##### Training: 434 MB 
-##### Validation: 119 MB
-##### Testing: 0 MB
+##### Number of Class: 10
+##### Number of Image:
+###### Total: 1370
+###### Training: 1098 
+###### Validation: 272
+###### Testing: 0
+##### Dataset Size:
+###### Total: 553 MB
+###### Training: 434 MB 
+###### Validation: 119 MB
+###### Testing: 0 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-#### Metrics (Accuracy):
+##### Metrics (Accuracy):
 <!---
-Training:
-Testing:
+###### Training:
+###### Testing:
 -->
-Validation: 97.06%
-#### Metrics (Loss):
+###### Validation: 97.06%
+##### Metrics (Loss):
 <!---
-Training:
-Validation:
-Testing: 1.29
+###### Training:
+###### Validation:
+###### Testing: 1.29
 -->
 
 ### Training Details for Dog Dataset:
-#### Number of Class: 120
-#### Number of Image:
-Total: 10222
-Training: 7221
-Validation: 2043
-Testing: 958
-#### Dataset Size:
-Training: 344 MB 
-Validation: 71.1 MB
-Testing: 34.3 MB
+##### Number of Class: 120
+##### Number of Image:
+###### Total: 10222
+###### Training: 7221
+###### Validation: 2043
+###### Testing: 958
+##### Dataset Size:
+###### Training: 344 MB 
+###### Validation: 71.1 MB
+###### Testing: 34.3 MB
 <!---
 ###### Number of Epochs: 8
 ###### Training Time (Approx.): 2 Hours
 -->
-#### Metrics (Accuracy):
+##### Metrics (Accuracy):
 <!---
-Training:
+###### Training:
 -->
-Validation: 74.25%
-Testing: 
+###### Validation: 74.25%
+###### Testing: 
 #### Metrics (Loss):
 <!---
-Training:
-Validation:
-Testing: 1.29
+###### Training:
+###### Validation:
+###### Testing: 1.29
 -->
 *************************************************************************************************************************************
 ##### Languages   : Python
