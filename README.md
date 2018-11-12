@@ -76,8 +76,10 @@
 ###### Training: 7221
 ###### Validation: 2043
 ###### Testing: 958
+
 ##### Dataset Size:
-###### Training: 344 MB 
+###### Total: 344 MB 
+###### Training: 239 MB 
 ###### Validation: 71.1 MB
 ###### Testing: 34.3 MB
 <!---
@@ -89,9 +91,9 @@
 ###### Training:
 -->
 ###### Validation: 74.25%
+<!---
 ###### Testing: 
 #### Metrics (Loss):
-<!---
 ###### Training:
 ###### Validation:
 ###### Testing: 1.29
