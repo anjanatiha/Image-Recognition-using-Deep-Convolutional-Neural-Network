@@ -46,6 +46,10 @@
 ##### Metrics (Loss): Testing: 1.29
 -->
 
+#### Sample Output: 
+<kbd>
+<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
+</kbd>
 
 *************************************************************************************************************************************
 
