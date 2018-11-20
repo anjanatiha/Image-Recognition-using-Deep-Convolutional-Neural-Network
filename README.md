@@ -56,7 +56,7 @@
 -->
 #### Sample Output: 
 <kbd>
-<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>
+<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample2.png>
 </kbd>
 
 *************************************************************************************************************************************
