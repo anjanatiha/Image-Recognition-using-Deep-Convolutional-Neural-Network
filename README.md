@@ -54,6 +54,11 @@
 <!---
 #### Metrics (Loss): 
 -->
+#### Sample Output: 
+<kbd>
+<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>
+</kbd>
+
 *************************************************************************************************************************************
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
