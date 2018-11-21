@@ -37,20 +37,16 @@
 ###### Base Model: InceptionV3
 ###### Optimizers: Adam
 ###### Loss Function: categorical_crossentropy
-<!---
 ###### Number of Epochs: 43
-###### Training Time (Approx.): 2 Hours
--->
+###### Training Time (Approx.): 5.375 Hours
 ###### Metrics (Accuracy): Validation: 97.06%
-<!---
-##### Metrics (Loss): Testing: 1.29
--->
-
+##### Metrics (Loss): Testing: 0.24
 #### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
 </kbd>
-
+<!---
+-->
 *************************************************************************************************************************************
 
 ### Dog Dataset:
