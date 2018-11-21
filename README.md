@@ -23,7 +23,7 @@
 ###### Metrics (Accuracy): Validation: 82%, Testing: 85.68%
 ###### Metrics (Loss): Testing: 1.29
 
-#### Sample Output: 
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/sample/sample.png>
 </kbd>
@@ -37,20 +37,16 @@
 ###### Base Model: InceptionV3
 ###### Optimizers: Adam
 ###### Loss Function: categorical_crossentropy
-<!---
-###### Number of Epochs: 8
-###### Training Time (Approx.): 2 Hours
--->
+###### Number of Epochs: 43
+###### Training Time (Approx.): 5.375 Hours
 ###### Metrics (Accuracy): Validation: 97.06%
-<!---
-##### Metrics (Loss): Testing: 1.29
--->
-
-#### Sample Output: 
+###### Metrics (Loss): Testing: 0.24
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
 </kbd>
-
+<!---
+-->
 *************************************************************************************************************************************
 
 ### Dog Dataset:
@@ -60,15 +56,13 @@
 ###### Base Model: InceptionV3
 ###### Optimizers: Adam
 ###### Loss Function: categorical_crossentropy
-<!---
-###### Number of Epochs: 8
-###### Training Time (Approx.): 2 Hours
--->
+###### Number of Epochs: 29
+###### Training Time (Approx.): 23.63 Hours
 ###### Metrics (Accuracy): Validation: 76.41%
 <!---
 #### Metrics (Loss): 
 -->
-#### Sample Output: 
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample2.png>
 </kbd>
