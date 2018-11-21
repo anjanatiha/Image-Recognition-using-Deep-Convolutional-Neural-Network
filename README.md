@@ -60,10 +60,8 @@
 ###### Base Model: InceptionV3
 ###### Optimizers: Adam
 ###### Loss Function: categorical_crossentropy
-<!---
-###### Number of Epochs: 8
-###### Training Time (Approx.): 2 Hours
--->
+###### Number of Epochs: 29
+###### Training Time (Approx.): 23.63 Hours
 ###### Metrics (Accuracy): Validation: 76.41%
 <!---
 #### Metrics (Loss): 
