@@ -38,7 +38,7 @@
 ###### Optimizers: Adam
 ###### Loss Function: categorical_crossentropy
 <!---
-###### Number of Epochs: 8
+###### Number of Epochs: 43
 ###### Training Time (Approx.): 2 Hours
 -->
 ###### Metrics (Accuracy): Validation: 97.06%
