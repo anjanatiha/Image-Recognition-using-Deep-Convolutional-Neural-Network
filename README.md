@@ -23,7 +23,7 @@
 ###### Metrics (Accuracy): Validation: 82%, Testing: 85.68%
 ###### Metrics (Loss): Testing: 1.29
 
-#### Sample Output: 
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/sample/sample.png>
 </kbd>
@@ -40,8 +40,8 @@
 ###### Number of Epochs: 43
 ###### Training Time (Approx.): 5.375 Hours
 ###### Metrics (Accuracy): Validation: 97.06%
-##### Metrics (Loss): Testing: 0.24
-#### Sample Output: 
+###### Metrics (Loss): Testing: 0.24
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
 </kbd>
@@ -62,7 +62,7 @@
 <!---
 #### Metrics (Loss): 
 -->
-#### Sample Output: 
+##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample2.png>
 </kbd>
