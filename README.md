@@ -15,7 +15,7 @@ Application            : Image Recognition, Image Classification
       3. Dog Breed dataset (Testing Accuracy - 71.61%%, 120 class, 10222 images).
 </pre>
 
-### Flower Dataset:
+#### Flower Dataset:
 <pre>
 Dataset Name     : Flower Dataset
 Dataset Link     : <a href=https://www.kaggle.com/alxmamaev/flowers-recognition/home>Flowers Recognition</a>
@@ -72,7 +72,7 @@ Best Test Loss: 0.48
 <a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/images/result.png>See More Images</a>
 </kbd>
 
-### Monkey Dataset:
+#### Monkey Dataset:
 <pre>
 Dataset Name            : 10 Monkey Species
 Dataset Link            : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Species</a>
@@ -126,7 +126,7 @@ Best Test Loss: 0.11
 <a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/images/result.png>See More Images</a>
 </kbd>
 
-### Dog Dataset:
+#### Dog Dataset:
 <pre>
 Dataset Name     : Dog Breed Identification
 Dataset Link     : <a href=https://www.kaggle.com/c/dog-breed-identification>Dog Breed Identification</a>
