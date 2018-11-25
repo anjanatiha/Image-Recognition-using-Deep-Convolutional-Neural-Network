@@ -112,17 +112,45 @@ Best Test Loss: 0.11
 *************************************************************************************************************************************
 
 ### Dog Dataset:
-###### Number of Class: 120
-###### Number of Image: Total: 10222, Training: 7221, Validation: 2043, Testing: 958
-###### Dataset Size: Total: 344 MB, Training: 239 MB, Validation: 71.1 MB, Testing: 34.3 MB
-###### Base Model: InceptionV3
-###### Optimizers: Adam
-###### Loss Function: categorical_crossentropy
-###### Number of Epochs: 29
-###### Training Time (Approx.): 23.63 Hours
-###### Metrics (Accuracy): Validation: 76.41%
-<!---
-#### Metrics (Loss): 
+<pre>
+<b>Dataset Details</b>
+Dataset Name            : Dog Breed Identification Dataset
+Number of Class         : 120
+Number/Size of Images   : Total      : 10222 (344  Megabyte (MB))
+                          Training   : 7221  (239  Megabyte (MB))
+                          Validation : 2043  (71.1 Megabyte (MB))
+                          Testing    : 958   (34.3 Megabyte (MB))
+
+<b>Model Parameters</b>
+Machine Learning Library: Keras
+Base Model              : InceptionV3
+Optimizers              : Adam
+Loss Function           : categorical_crossentropy
+
+<b>Training Parameters</b>
+Batch Size              : 64
+Number of Epochs        : 50
+Training Time           : 
+
+<b>Output (Prediction/ Recognition / Classification Metrics)</b>
+<b>Validation</b>
+Accuracy                : 76.41%
+<!--
+<b>Testing</b>
+Accuracy                : 70.38%
+Loss                    : 0.48
+Precision               : 
+Recall                  : 94% (highest)
+Specificity             : -->
+</pre>
+
+<!--
+Best Model Path (Accuracy): data\output\models\\42-val_acc-0.86-val_loss-0.82.hdf5
+Best Test Accuracy: 89.91%
+Best Test Loss: 0.49
+Best Model Path (Loss): data\output\models\\12-val_acc-0.84-val_loss-0.65.hdf5
+Best Test Accuracy: 89.44%
+Best Test Loss: 0.48
 -->
 ##### Sample Output: 
 <kbd>
