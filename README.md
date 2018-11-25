@@ -9,17 +9,46 @@
 1. Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 85.68%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 553MB), Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).
 *************************************************************************************************************************************
-### Flower Dataset:
-###### Number of Class: 5
-###### Number of Images: Total: 4327, Training: 3031, Validation: 866, Testing: 430
-###### Dataset Size: Total: 228 MB, Training: 158 MB, Validation: 51.8 MB, Testing: 26.6 MB
-###### Base Model: InceptionV3
-###### Optimizers: Adam
-###### Loss Function: categorical_crossentropy
-###### Number of Epochs: 50
-###### Training Time (Approx.): 45 min
-###### Metrics (Accuracy): Validation: 82%, Testing: 90.38%
-###### Metrics (Loss): Testing: 0.48
+<pre>
+<b>Dataset Details</b>
+Dataset Name            : Flower Dataset
+Number of Class         : 5
+Number/Size of Images   : Total      : 4327 (228 Megabyte (MB))
+                          Training   : 3031 (158 Megabyte (MB))
+                          Validation : 866  (51.8 Megabyte (MB))
+                          Testing    : 430  (26.6 Megabyte (MB))
+
+<b>Model Parameters</b>
+Machine Learning Library: Keras
+Base Model              : InceptionV3
+Optimizers              : Adam
+Loss Function           : categorical_crossentropy
+
+<b>Training Parameters</b>
+Batch Size              : 64
+Number of Epochs        : 50
+Training Time           : 40 min
+
+<b>Output (Prediction/ Recognition / Classification Metrics)</b>
+<b>Validation</b>
+Accuracy                : 82%
+
+<b>Testing</b>
+Accuracy                : 90.38%
+Loss                    : 0.48
+<!--Precision               : 
+Recall                  : 94% (highest)
+Specificity             : -->
+</pre>
+
+<!--
+Best Model Path (Accuracy): data\output\models\\42-val_acc-0.86-val_loss-0.82.hdf5
+Best Test Accuracy: 89.91%
+Best Test Loss: 0.49
+Best Model Path (Loss): data\output\models\\12-val_acc-0.84-val_loss-0.65.hdf5
+Best Test Accuracy: 89.44%
+Best Test Loss: 0.48
+-->
 
 ##### Sample Output: 
 <kbd>
