@@ -10,7 +10,6 @@
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 90.38%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 553MB), Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).
 *************************************************************************************************************************************
 ### Flower Dataset:
-
 <pre>
 <b>Dataset Details</b>
 Dataset Name            : Flower Dataset
@@ -60,16 +59,50 @@ Best Test Loss: 0.48
 *************************************************************************************************************************************
 
 ### Monkey Dataset:
-###### Number of Class: 10
-###### Number of Image: Total: 1370, Training: 1098, Validation: 272, Testing: 0
-###### Dataset Size: Total: 553 MB, Training: 434 MB, Validation: 119 MB, Testing: 0 MB
-###### Base Model: InceptionV3
-###### Optimizers: Adam
-###### Loss Function: categorical_crossentropy
-###### Number of Epochs: 43
-###### Training Time (Approx.): 5.375 Hours
-###### Metrics (Accuracy): Validation: 97.06%
-###### Metrics (Loss): Testing: 0.24
+<pre>
+Dataset Name     : 10 Monkey Species
+Dataset Link     : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Species</a>
+</pre>
+
+<pre>
+<b>Dataset Details</b>
+Dataset Name            : Monkey Dataset
+Number of Class         : 10
+Number/Size of Images   : Total      : 1370 (553 Megabyte (MB))
+                          Training   : 1098 (434 Megabyte (MB))
+                          Validation : 272  (119 Megabyte (MB))
+                          Testing    : 0    (0   Megabyte (MB))
+
+<b>Model Parameters</b>
+Machine Learning Library: Keras
+Base Model              : InceptionV3
+Optimizers              : Adam
+Loss Function           : categorical_crossentropy
+
+<b>Training Parameters</b>
+Batch Size              : 64
+Number of Epochs        : 50
+Training Time           : 40 min
+
+<b>Output (Prediction/ Recognition / Classification Metrics)</b>
+<b>Validation</b>
+Accuracy                : 97.0%
+Loss                    : 0.11
+
+<!--
+<b>Testing</b>
+Accuracy                : 
+Loss                    : 
+Precision               : 
+Recall                  : 
+Specificity             : -->
+</pre>
+
+<!--
+Best Model Path (Accuracy): 27-val_acc-0.97-val_loss-0.11.hdf5
+Best Test Accuracy: 97.0%
+Best Test Loss: 0.11
+-->
 ##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
