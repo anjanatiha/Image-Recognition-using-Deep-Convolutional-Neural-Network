@@ -123,6 +123,11 @@ Best Test Loss: 0.11
 
 ### Dog Dataset:
 <pre>
+Dataset Name     : Dog Breed Identification
+Dataset Link     : <a href=https://www.kaggle.com/c/dog-breed-identification>Dog Breed Identification</a>
+</pre>
+
+<pre>
 <b>Dataset Details</b>
 Dataset Name            : Dog Breed Identification Dataset
 Number of Class         : 120
