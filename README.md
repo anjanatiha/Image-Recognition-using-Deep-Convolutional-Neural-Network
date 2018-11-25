@@ -57,10 +57,6 @@ Best Test Accuracy: 89.44%
 Best Test Loss: 0.48
 -->
 
-See more image prediction: 
-<kbd>
-<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>64 images</a>
-</kbd>
 
 ##### Sample Output: 
 <kbd>
@@ -168,6 +164,12 @@ Best Test Loss: 1.45
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample.png>
 </kbd>
+
+<pre>
+<b>See more image prediction: 
+<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>More Images</a>
+</b>
+<pre>
 
 #### Tools / Libraries
 <pre>
