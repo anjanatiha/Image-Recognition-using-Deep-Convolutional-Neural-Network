@@ -17,6 +17,11 @@ Application            : Image Recognition, Image Classification
 
 ### Flower Dataset:
 <pre>
+Dataset Name     : Flower Dataset
+Dataset Link     : <a href=https://www.kaggle.com/alxmamaev/flowers-recognition/home>Flowers Recognition</a>
+</pre>
+
+<pre>
 <b>Dataset Details</b>
 Dataset Name            : Flower Dataset
 Number of Class         : 5
