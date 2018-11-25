@@ -60,8 +60,8 @@ Best Test Loss: 0.48
 
 ### Monkey Dataset:
 <pre>
-Dataset Name     : 10 Monkey Species
-Dataset Link     : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Species</a>
+Dataset Name            : 10 Monkey Species
+Dataset Link            : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Species</a>
 </pre>
 
 <pre>
@@ -158,11 +158,21 @@ Best Test Loss: 0.48
 </kbd>
 
 *************************************************************************************************************************************
-##### Languages   : Python
-##### Tools/IDE   : Anaconda
-##### Libraries   : Keras, TensorFlow, Inception, ImageNet
+### Tools / Libraries
+<pre>
+Languages               : Python
+Tools/IDE               : Anaconda
+Libraries               : Keras, TensorFlow, Inception, ImageNet
+
+### Dates
+Duration                : September 18 - Current
+Current Version         : v1.0.0.0
+Last Update             : 11.25.2018
+</pre>
+
+
+
+
 *************************************************************************************************************************************
-##### Duration   : September 18 - Current
-##### Current Version  : v1.0.0.0
-##### Last Update      : 11.20.2018
+
 *************************************************************************************************************************************
