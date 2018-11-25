@@ -169,7 +169,7 @@ Best Test Loss: 1.45
 <b>See more image prediction: 
 <a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>More Images</a>
 </b>
-<pre>
+</pre>
 
 #### Tools / Libraries
 <pre>
