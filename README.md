@@ -56,10 +56,12 @@ Best Model Path (Loss): data\output\models\\12-val_acc-0.84-val_loss-0.65.hdf5
 Best Test Accuracy: 89.44%
 Best Test Loss: 0.48
 -->
-##### Full 1 Batch Prediction: 
+
+See more image prediction: 
 <kbd>
- <a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>64 images</a>
+<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>64 images</a>
 </kbd>
+
 ##### Sample Output: 
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/sample/sample.png>
