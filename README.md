@@ -138,22 +138,26 @@ Training Time           :
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
 <b>Validation</b>
 Accuracy                : 76.41%
-<!--
+
 <b>Testing</b>
-Accuracy                : 70.38%
-Loss                    : 0.48
+Accuracy                : 71.61%
+Loss                    : 1.59
+<!--
 Precision               : 
-Recall                  : 94% (highest)
+Recall                  : 
 Specificity             : -->
 </pre>
 
 <!--
-Best Model Path (Accuracy): data\output\models\\42-val_acc-0.86-val_loss-0.82.hdf5
-Best Test Accuracy: 89.91%
-Best Test Loss: 0.49
-Best Model Path (Loss): data\output\models\\12-val_acc-0.84-val_loss-0.65.hdf5
-Best Test Accuracy: 89.44%
-Best Test Loss: 0.48
+----------------- Summary of Model Performance on Test Dataset -----------------
+Best Model Path (Accuracy): data\output\models\\28-val_acc-0.66-val_loss-1.80.hdf5
+Best Test Accuracy: 71.61%
+Best Test Loss: 1.59
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Best Model Path (Loss): data\output\models\\12-val_acc-0.67-val_loss-1.53.hdf5
+Best Test Accuracy: 68.16%
+Best Test Loss: 1.45
 -->
 ##### Sample Output: 
 <kbd>
