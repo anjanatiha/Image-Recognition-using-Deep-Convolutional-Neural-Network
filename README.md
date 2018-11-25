@@ -6,7 +6,7 @@ Domain                 : Computer Vision, Machine Learning
 Sub-Domain             : Deep Learning, Image Recognition
 Techniques             : Deep Convolutional Neural Network, ImageNet, Inception
 Application            : Image Recognition, Image Classification
-<pre>
+</pre>
 
 *************************************************************************************************************************************
 ### Description
