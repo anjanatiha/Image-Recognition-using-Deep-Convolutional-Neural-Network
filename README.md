@@ -9,14 +9,15 @@ Application            : Image Recognition, Image Classification
 ## Description
 <pre>
 <ul>
-<li> Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.</li>
-<li>Trained on multiple datasets:</li>
+      <li> Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.</li>
+      <li>Trained on multiple datasets:</li>
       <ul>
             <li>Flower dataset (testing accuracy - 90.38%, 5 species, 4327 images, 228 MB).</li>
             <li>10 Monkey species (validation accuracy – 97.06%, 553MB).</li>
             <li>Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).</li>
       </ul>
 </ul>
+</pre>
 
 ### Flower Dataset:
 <pre>
