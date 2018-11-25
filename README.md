@@ -63,6 +63,10 @@ Best Test Loss: 0.48
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/sample/sample.png>
 </kbd>
 
+<kbd>
+<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/images/result.png>See More Images</a>
+</kbd>
+
 ### Monkey Dataset:
 <pre>
 Dataset Name            : 10 Monkey Species
@@ -112,8 +116,10 @@ Best Test Loss: 0.11
 <kbd>
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/sample/sample.png>
 </kbd>
-<!---
--->
+
+<kbd>
+<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Monkey%20Recognition/demo/images/result.png>See More Images</a>
+</kbd>
 
 ### Dog Dataset:
 <pre>
@@ -165,9 +171,8 @@ Best Test Loss: 1.45
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample.png>
 </kbd>
 
-
 <kbd>
-<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>See More Outcomes</a>
+<a href=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/images/result.png>See More Images</a>
 </kbd>
 
 #### Tools / Libraries
