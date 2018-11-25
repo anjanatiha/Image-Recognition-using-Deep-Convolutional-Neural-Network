@@ -1,9 +1,12 @@
 # Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                           
-[comment]: # (*************************************************************************************************************************************)
-##### Domain             : Computer Vision, Machine Learning
-##### Sub-Domain         : Deep Learning, Image Recognition
-##### Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
-##### Application        : Image Recognition, Image Classification
+
+(*************************************************************************************************************************************)
+<pre>
+Domain                 : Computer Vision, Machine Learning
+Sub-Domain             : Deep Learning, Image Recognition
+Techniques             : Deep Convolutional Neural Network, ImageNet, Inception
+Application            : Image Recognition, Image Classification
+<pre>
 *************************************************************************************************************************************
 ### Description
 1. Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.
