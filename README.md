@@ -1,6 +1,4 @@
 # Image Recognition using Deep Convolutional Neural Network and Retraining Pretrained Models 	                                           
-
-(*************************************************************************************************************************************)
 <pre>
 Domain                 : Computer Vision, Machine Learning
 Sub-Domain             : Deep Learning, Image Recognition
@@ -8,11 +6,15 @@ Techniques             : Deep Convolutional Neural Network, ImageNet, Inception
 Application            : Image Recognition, Image Classification
 </pre>
 
-*************************************************************************************************************************************
-### Description
+## Description
+<pre>
 1. Developed image recognition tool using Deep Convolutional Neural Network built from scratch with Keras Sequential model and, pretrained model “Inception” separately for fine-tuning with new class labels.
-2. Trained on multiple datasets - Flower dataset (testing accuracy - 90.38%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 553MB), Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).
-*************************************************************************************************************************************
+2. Trained on multiple datasets:
+      1. Flower dataset (testing accuracy - 90.38%, 5 species, 4327 images, 228 MB).
+      2. 10 Monkey species (validation accuracy – 97.06%, 553MB).
+      3. Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).
+</pre>
+
 ### Flower Dataset:
 <pre>
 <b>Dataset Details</b>
