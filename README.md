@@ -154,18 +154,16 @@ Best Test Loss: 0.48
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample2.png>
 </kbd>
 
-### Tools / Libraries
+#### Tools / Libraries
 <pre>
 Languages               : Python
 Tools/IDE               : Anaconda
 Libraries               : Keras, TensorFlow, Inception, ImageNet
 </pre>
 
-### Dates
+#### Dates
 <pre>
 Duration                : September 18 - Current
 Current Version         : v1.0.0.0
 Last Update             : 11.25.2018
 </pre>
-
-*************************************************************************************************************************************
