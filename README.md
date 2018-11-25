@@ -17,6 +17,11 @@ Application            : Image Recognition, Image Classification
 
 ### Flower Dataset:
 <pre>
+Dataset Name     : Flower Dataset
+Dataset Link     : <a href=https://www.kaggle.com/alxmamaev/flowers-recognition/home>Flowers Recognition</a>
+</pre>
+
+<pre>
 <b>Dataset Details</b>
 Dataset Name            : Flower Dataset
 Number of Class         : 5
@@ -122,6 +127,11 @@ Best Test Loss: 0.11
 </kbd>
 
 ### Dog Dataset:
+<pre>
+Dataset Name     : Dog Breed Identification
+Dataset Link     : <a href=https://www.kaggle.com/c/dog-breed-identification>Dog Breed Identification</a>
+</pre>
+
 <pre>
 <b>Dataset Details</b>
 Dataset Name            : Dog Breed Identification Dataset
