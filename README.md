@@ -10,7 +10,6 @@
 2. Trained on multiple datasets - Flower dataset (testing accuracy - 90.38%, 5 species, 4327 images, 228 MB), 10 Monkey species (validation accuracy – 97.06%, 553MB), Dog Breed dataset (Testing accuracy - 76.41%, 120 class, 10222 images, 344MB).
 *************************************************************************************************************************************
 ### Flower Dataset:
-
 <pre>
 <b>Dataset Details</b>
 Dataset Name            : Flower Dataset
@@ -62,7 +61,7 @@ Best Test Loss: 0.48
 ### Monkey Dataset:
 <pre>
 Dataset Name     : 10 Monkey Species
-Dataset Link     : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Speciesy</a>
+Dataset Link     : <a href=https://www.kaggle.com/slothkong/10-monkey-species>10 Monkey Species</a>
 </pre>
 
 <pre>
