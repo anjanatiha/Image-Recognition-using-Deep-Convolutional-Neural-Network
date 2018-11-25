@@ -56,8 +56,6 @@ Best Test Loss: 0.48
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/sample/sample.png>
 </kbd>
 
-*************************************************************************************************************************************
-
 ### Monkey Dataset:
 <pre>
 Dataset Name            : 10 Monkey Species
@@ -109,7 +107,6 @@ Best Test Loss: 0.11
 </kbd>
 <!---
 -->
-*************************************************************************************************************************************
 
 ### Dog Dataset:
 <pre>
@@ -157,16 +154,12 @@ Best Test Loss: 0.48
 <img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Dog%20Breed%20Identification/demo/sample/sample2.png>
 </kbd>
 
-*************************************************************************************************************************************
-*************************************************************************************************************************************
 ### Tools / Libraries
 <pre>
 Languages               : Python
 Tools/IDE               : Anaconda
 Libraries               : Keras, TensorFlow, Inception, ImageNet
 </pre>
-
-*************************************************************************************************************************************
 
 ### Dates
 <pre>
