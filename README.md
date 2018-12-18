@@ -25,10 +25,10 @@ Dataset Link     : <a href=https://www.kaggle.com/alxmamaev/flowers-recognition/
 <b>Dataset Details</b>
 Dataset Name            : Flower Dataset
 Number of Class         : 5
-Number/Size of Images   : Total      : 4327 (228 Megabyte (MB))
-                          Training   : 3031 (158 Megabyte (MB))
+Number/Size of Images   : Total      : 4327 (228 Megabyte  (MB))
+                          Training   : 3031 (158 Megabyte  (MB))
                           Validation : 866  (51.8 Megabyte (MB))
-                          Testing    : 430  (26.6 Megabyte (MB))
+                          Testing    : 426  (26.6 Megabyte (MB)) 
 
 <b>Model Parameters</b>
 Machine Learning Library: Keras
@@ -43,25 +43,23 @@ Training Time           : 40 min
 
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
 <b>Validation</b>
-Accuracy                : 82%
+Accuracy                : 90%
 
 <b>Testing</b>
-Accuracy                : 90.38%
-Loss                    : 0.48
-<!--Precision               : 
-Recall                  : 94% (highest)
-Specificity             : -->
+Accuracy                : 89.67%
+Loss                    : 0.36  
+Precision               : 90.45%
+Recall                  : 89.67%
+
 </pre>
 
 <!--
-Best Model Path (Accuracy): data\output\models\\42-val_acc-0.86-val_loss-0.82.hdf5
-Best Test Accuracy: 89.91%
-Best Test Loss: 0.49
-Best Model Path (Loss): data\output\models\\12-val_acc-0.84-val_loss-0.65.hdf5
-Best Test Accuracy: 89.44%
-Best Test Loss: 0.48
+Best Model : data\output\models\14-val_acc-0.90-val_loss-0.39.hdf5
+Accuracy                : 89.67%
+Loss                    : 0.36  
+Precision               : 90.45%
+Recall                  : 89.67%
 -->
-
 
 ##### Sample Output: 
 <kbd>
