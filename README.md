@@ -72,7 +72,7 @@ Recall                  : 89.67%
 
 ##### Confusion Matrix: 
 <kbd>
-<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
+<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/report/CM.png alt="Confusion Matrix" width=600px height=400px>
 </kbd>
 
 #### Monkey Dataset:
