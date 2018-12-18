@@ -72,7 +72,7 @@ Recall                  : 89.67%
 
 ##### Confusion Matrix: 
 <kbd>
-<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
+<img src=https://github.com/anjanatiha/Image-Recognition-using-Deep-Convolutional-Neural-Network/blob/master/Flowers%20Recognition/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
 </kbd>
 
 #### Monkey Dataset:
